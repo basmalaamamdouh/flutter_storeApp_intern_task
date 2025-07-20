@@ -21,7 +21,7 @@
 |--------|------------|------|---------|
 | ![](assets/images/screenshots/splash.png) | ![](assets/images/screenshots/onboarding1.png) | ![](assets/images/screenshots/onboarding2.png) | ![](assets/images/screenshots/onboarding3.png) | ![](assets/images/screenshots/home.png) | ![](assets/images/screenshots/details.png) |
 
-|  |            |      |         |<img width="321" height="413" alt="image" src="https://github.com/user-attachments/assets/03c2a96f-e02a-47cd-ac80-bd91c300053a" />
+|  |            |      |         |<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/03c2a96f-e02a-47cd-ac80-bd91c300053a" />
 
 
 ---
