@@ -17,12 +17,13 @@
 
 ## 📱 Screenshots
 
-| Splash | Onboarding1 | Onboarding2 | Onboarding3 | Home | Details |
-|--------|------------|------|---------|
-| ![](assets/images/screenshots/splash.png) | ![](assets/images/screenshots/onboarding1.png) | ![](assets/images/screenshots/onboarding2.png) | ![](assets/images/screenshots/onboarding3.png) | ![](assets/images/screenshots/home.png) | ![](assets/images/screenshots/details.png) |
+| Splash                                    | Onboarding 1                                   | Onboarding 2                                   |
+| ----------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| ![](assets/images/screenshots/splash.png) | ![](assets/images/screenshots/onboarding1.png) | ![](assets/images/screenshots/onboarding2.png) |
 
-|  |            |      |         |<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/03c2a96f-e02a-47cd-ac80-bd91c300053a" />
-
+| Onboarding 3                                   | Home                                    | Details                                    |
+| ---------------------------------------------- | --------------------------------------- | ------------------------------------------ |
+| ![](assets/images/screenshots/onboarding3.png) | ![](assets/images/screenshots/home.png) | ![](assets/images/screenshots/details.png) |
 
 ---
 
@@ -74,4 +75,3 @@ lib/
 * **Basmala Mamdouh** – [@basmalaamamdouh](https://github.com/basmalaamamdouh)
 
 ---
-
