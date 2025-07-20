@@ -15,17 +15,6 @@
 
 ---
 
-## 📱 Screenshots
-
-| Splash                                    | Onboarding 1                                   | Onboarding 2                                   |
-| ----------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| ![](assets/images/screenshots/splash.png) | ![](assets/images/screenshots/onboarding1.png) | ![](assets/images/screenshots/onboarding2.png) |
-
-| Onboarding 3                                   | Home                                    | Details                                    |
-| ---------------------------------------------- | --------------------------------------- | ------------------------------------------ |
-| ![](assets/images/screenshots/onboarding3.png) | ![](assets/images/screenshots/home.png) | ![](assets/images/screenshots/details.png) |
-
----
 
 ## 🔧 Getting Started
 
